@@ -1,0 +1,59 @@
+body {
+  background-color: #e5e5e5;
+}
+
+.navbar-brand {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.nav-item a {
+  color: black;
+}
+
+.carousel-caption h2 {
+  font-size: 48px;
+  font-weight: 600;
+}
+
+.carousel-caption p {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.my-toast {
+  border-left: 10px solid #3f87f5 !important;
+}
+
+.my-toast > div > div > i {
+  color: #3f87f5;
+  font-size: 20px;
+}
+
+.all-cards i {
+  font-size: 10px;
+}
+
+.special-card {
+  background-color: #3f87f5 !important;
+  color: white;
+  height: 480px;
+}
+
+.special-card div a {
+  background-color: white;
+  color: #3f87f5;
+}
+
+ul li {
+  list-style: none;
+}
+
+.special-card i {
+  font-size: 10px;
+}
+
+.special-badge {
+  top: 0px;
+  right: 0px;
+}
